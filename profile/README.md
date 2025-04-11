@@ -9,6 +9,6 @@ We are currently working on these projects:
 - Plugin for automatically making and completing quests
 - More plugins and projects to come...
 
-`ERROR ERROR
-README NOT FINISHED
-COME BACK SOON`
+`ERROR`
+
+`README NOT FINISHED`
